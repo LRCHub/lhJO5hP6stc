@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "パラレルワールド",
+  "base_artist": "大石昌良",
+  "createdAt": "2025-12-26T12:44:24.037315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/01_パラレルワールド_MINMI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/02_パラレルワールド_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/03_パラレルワールド_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_パラレルワールド_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミス・パラレルワールド",
+      "artist": "相対性理論",
+      "has_synced": true,
+      "path": "select/05_ミス・パラレルワールド_相対性理論.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "nano.RIPE",
+      "has_synced": false,
+      "path": "select/06_パラレルワールド_nano.RIPE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "BAK",
+      "has_synced": true,
+      "path": "select/07_パラレルワールド_BAK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミス・パラレルワールド",
+      "artist": "Soutaisei Riron",
+      "has_synced": true,
+      "path": "select/08_ミス・パラレルワールド_Soutaisei_Riron.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミス・パラレルワールド",
+      "artist": "Soutaiseiriron",
+      "has_synced": true,
+      "path": "select/09_ミス・パラレルワールド_Soutaiseiriron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/10_パラレルワールド_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "パラレルワールド",
+      "artist": "YO_CO",
+      "has_synced": true,
+      "path": "select/11_パラレルワールド_YO_CO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラレルワールド",
+      "artist": "大石昌良",
+      "has_synced": false,
+      "path": "select/pl_01_パラレルワールド_大石昌良.txt"
+    }
+  ]
+}
